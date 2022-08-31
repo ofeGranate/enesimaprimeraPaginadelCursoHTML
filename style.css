@@ -3,6 +3,7 @@ body {
 
 .cover {
   height: 400px;
+  /*Foto de <a href="https://unsplash.com/@tsunamiholmes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chloe Leis</a> en <a href="https://unsplash.com/es/s/fotos/cafe-interior?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> *
   background-image: url(https://cdn.glitch.global/5facf31e-b982-49b8-8106-d64dafb35927/rsz_chloe-leis-aeeco_i_8xg-unsplash.jpg?v=1661894732281);
   color: white;
   background-size: cover;
