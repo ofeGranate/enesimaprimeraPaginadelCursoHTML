@@ -1,6 +1,6 @@
 body {
   margin: 0.5em;
-  font-family:"Comic sans";
+  font-family: "Aclonica", sans-serif;
 }
 
 .cover {
@@ -26,7 +26,6 @@ body {
 }
 .card-title {
   min-height: 2em;
-  
 }
 
 .card-text {
