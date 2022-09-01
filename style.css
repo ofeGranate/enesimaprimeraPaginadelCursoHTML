@@ -1,6 +1,6 @@
 body {
   margin: 0.5em;
-  ont-family: "Aclonica", sans-serif;
+
 }
 
 .cover {
@@ -17,6 +17,9 @@ body {
 .cover-small {
   height: 200px;
   background-blend-mode: normal;
+}
+.logocentrum{
+  
 }
 
 .card {
