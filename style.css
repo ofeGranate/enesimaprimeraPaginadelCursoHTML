@@ -40,6 +40,12 @@ h1,h2,h3,h4,h5{
 
 .tira-container {
   display: flex;
+  
+}
+
+.tira-container .card{
+  width: 300px;
+  flex-shrink: 0;
 }
 
 .tira-productos {
