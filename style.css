@@ -49,8 +49,12 @@ h5 {
 .tira-container .card {
   width: 300px;
   flex-shrink: 0;
-  margin-right: 10em;
+  margin-right:1rem;
+  margin-left:1rem;
 }
 
-/*.tira-productos {
-} */
+.tira-productos {
+  overflow-x:scroll;
+  padding-bottom:1rem;
+  padding-top:1rem;
+}
