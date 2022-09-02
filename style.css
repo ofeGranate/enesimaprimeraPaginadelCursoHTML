@@ -69,8 +69,12 @@ h5 {
   width: 100%;
 }
 
-.slide-ambiente {
-  
+.slide-ambiental {
+  overflow-x: hidden;
+  }
+
+.ambiental-container {
+  transform: tanslateX(0);
 }
 
 .imagenes-container {
