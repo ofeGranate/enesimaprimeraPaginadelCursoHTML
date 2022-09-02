@@ -42,7 +42,7 @@ h5 {
   min-height: 12rem;
 }
 
-.tira-container {
+.tira-container, .ambiental-container{
   display: flex;
 }
 
@@ -52,7 +52,7 @@ h5 {
   margin-right: 1rem;
 }
 
-.tira-productos {
+.tira-productos, .slider-ambiental {
   overflow-x: scroll;
   padding-bottom: 1rem;
   padding-top: 1rem;
@@ -67,6 +67,10 @@ h5 {
   left: 0;
   height: 100%;
   width: 100%;
+}
+
+.slide-ambiente {
+  
 }
 
 .imagenes-container {
