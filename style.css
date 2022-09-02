@@ -58,5 +58,13 @@ h5 {
   padding-top:1rem;
 }
 .responsive-iframe {
-  position
+  position: relative;
+  padding-top: 56.25%;
+}
+.responsive-iframe iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
 }
