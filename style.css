@@ -49,13 +49,13 @@ h5 {
 .tira-container .card {
   width: 300px;
   flex-shrink: 0;
-  margin-right:1rem;
+  margin-right: 1rem;
 }
 
-.tira-productos {
-  overflow-x:scroll;
-  padding-bottom:1rem;
-  padding-top:1rem;
+.tira-productos, .imagenes-container {
+  overflow-x: scroll;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
 }
 .responsive-iframe {
   position: relative;
@@ -75,5 +75,4 @@ h5 {
   background-size: cover;
   background-position: center;
   flex-shrink: 0;
-  
 }
