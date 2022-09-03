@@ -88,6 +88,13 @@ h5 {
   flex-shrink: 0;
 }
 
+.avatar {
+  width: 120px;
+  height: 120px;
+  background-size: cover;
+  background-position: center;
+}
+
 @keyframes slider-ambiental {
   0% {
     transform: translateX(0%); /* foto 1 */
@@ -117,7 +124,7 @@ h5 {
     transform: translateX(-400%);
   }
   98% {
-    transform:translateX(-400%)
+    transform: translateX(-400%);
   }
   100% {
     transform: translateX(0%); /* foto 1 */
