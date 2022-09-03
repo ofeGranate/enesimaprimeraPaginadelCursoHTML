@@ -110,11 +110,14 @@ h5 {
   60% {
     transform: translateX(-300%); /* foto 4 */
   }
-  83% {
-    transform: translateX(-400%); /* foto 5 */
+  78% {
+    transform: translateX(-300%); /* foto 5 */
   }
   80% {
     transform: translateX(-400%);
+  }
+  98% {
+    transform:translateX(-400%)
   }
   100% {
     transform: translateX(0%); /* foto 1 */
