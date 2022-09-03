@@ -92,22 +92,22 @@ h5 {
   0% {
     transform: translateX(0%);
   }
-  15% {
+  2% {
     transform: translateX(-100%);
   }
   20% {
     transform: translateX(-100%);
   }
-  35% {
+  38% {
     transform: translateX(-200%);
   }
-  40% {
+  53% {
     transform: translateX(-200%);
   }
   55% {
     transform: translateX(-300%);
   }
-  60% {
+  58% {
     transform: translateX(-300%);
   }
   75% {
