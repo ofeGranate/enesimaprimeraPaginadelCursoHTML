@@ -90,33 +90,33 @@ h5 {
 
 @keyframes slider-ambiental {
   0% {
+    transform: translateX(0%); /* foto 1 */
+  }
+  18% {
     transform: translateX(0%);
   }
-  2% {
-    transform: translateX(-100%);
-  }
   20% {
-    transform: translateX(-100%);
+    transform: translateX(-100%); /* foto 2 */
   }
   38% {
-    transform: translateX(-200%);
+    transform: translateX(-100%);
   }
-  53% {
-    transform: translateX(-200%);
-  }
-  55% {
-    transform: translateX(-300%);
+  40% {
+    transform: translateX(-200%); /* foto 3 */
   }
   58% {
-    transform: translateX(-300%);
+    transform: translateX(-200%);
   }
-  75% {
-    transform: translateX(-400%);
+  60% {
+    transform: translateX(-300%); /* foto 4 */
+  }
+  83% {
+    transform: translateX(-400%); /* foto 5 */
   }
   80% {
     transform: translateX(-400%);
   }
   100% {
-    transform: translateX(0%);
+    transform: translateX(0%); /* foto 1 */
   }
 }
