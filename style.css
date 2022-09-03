@@ -76,6 +76,7 @@ h5 {
 }
 
 .ambiental-container {
+  width:400px;
   transform: translateX(0);
   animation: slider-ambiental 10s infinite;
 }
