@@ -93,6 +93,7 @@ h5 {
   height: 120px;
   background-size: cover;
   background-position: center;
+  margin: 0 auto;
 }
 
 @keyframes slider-ambiental {
