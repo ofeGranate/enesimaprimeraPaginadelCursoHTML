@@ -76,7 +76,8 @@ h5 {
 }
 
 .ambiental-container {
-  transform: tanslateX(0);
+  transform: translateX(0);
+  
 }
 
 .imagenes-container {
@@ -85,4 +86,14 @@ h5 {
   background-size: cover;
   background-position: center;
   flex-shrink: 0;
+}
+
+@keyframes slider-ambiental {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-80%);
+  }
+  
 }
